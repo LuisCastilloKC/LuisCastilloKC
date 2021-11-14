@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Castillo</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
+<p align="left">A driven, passionate, and enthusiastic Full-Stack Web Developer who enjoyed over 10 years working in the Retail industry Serving satisfied clients. I have now become a FullStack Developer with a strong understanding in software programming and engineering. Skills extend to both client-side and server-side code. A highly collaborative team player, adept at learning new technology, writing high-quality code, and observing best practices. I'm open to hire and looking for the next opportunity to do creative problem-solving for your team!</p>
+
 - 🔭 I’m currently working on **MLB Voting App**
 
 - 🌱 I’m currently learning **Algorithm and Data Structure**
