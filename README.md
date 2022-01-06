@@ -3,6 +3,15 @@
 
 <p align="left">A driven, passionate, and enthusiastic Full-Stack Web Developer who enjoyed over 10 years working in the Retail industry Serving satisfied clients. I have now become a FullStack Developer with a strong understanding in software programming and engineering. Skills extend to both client-side and server-side code. A highly collaborative team player, adept at learning new technology, writing high-quality code, and observing best practices.</p>
 
+**2022 Goals**
+<ul>
+  <li>Get a job as a Developer</li>
+  <li>Complete my PortFolio</li>
+  <li>Complete Algo and DataStructor Course</li>
+  <li>5 Commits on GitHub Monday to Friday</li>
+  <li>Master JavaScript and ReactJS</li>
+</ul>
+
 - 🔭 I’m currently working on **MLB Voting App**
 
 - 🌱 I’m currently learning **Algorithm and Data Structure**
