@@ -7,7 +7,9 @@
   **2022 Goals**
   <ul>
     <liGet a job as a Developer</li>
-    <li>Complete my PortFolio</li>
+    <li>
+      <strike>Complete my PortFolio</strike> - :white_check_mark:
+    </li>
     <li>Complete Algo and DataStructor Course</li>
     <li>5 Commits on GitHub Monday to Friday</li>
     <li>Master JavaScript and ReactJS</li>
