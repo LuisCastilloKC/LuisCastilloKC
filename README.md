@@ -6,9 +6,9 @@
 
   **2022 Goals**
   <ul>
-    <liGet a job as a Developer</li>
+    <li>Get a job as a Developer</li>
     <li>
-      <strike>Complete my PortFolio</strike> - :white_check_mark:
+      <strike>Complete my PortFolio</strike>  -  www.luiscastillo.dev :white_check_mark:
     </li>
     <li>Complete Algo and DataStructor Course</li>
     <li>5 Commits on GitHub Monday to Friday</li>
