@@ -18,7 +18,7 @@
 
 -------------------------------------------------
 
-- 🔭 I’m currently working on **MLB Voting App**
+- 🔭 I’m currently working on **Baseball Scorebug app**
 
 - 🌱 I’m currently learning **Algorithm and Data Structure**
 
