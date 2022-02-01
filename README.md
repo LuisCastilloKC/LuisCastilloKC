@@ -15,7 +15,6 @@
     <li>Master JavaScript and ReactJS</li>
   </ul>
 
-
 -------------------------------------------------
 
 - 🔭 I’m currently working on **Baseball Scorebug app**
