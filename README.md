@@ -11,12 +11,14 @@
       <strike>Complete my PortFolio</strike>  -  www.luiscastillo.dev :white_check_mark:
     </li>
     <li>Complete Algo and DataStructor Course</li>
-    <li>5 Commits on GitHub Monday to Friday</li>
+    <li>
+      <strike> 5 Commits on GitHub Monday to Friday </strike> - :white_check_mark:
+    </li>
   </ul>
 
 -------------------------------------------------
 
-- 🔭 I’m currently working on **Baseball Scorebug app**
+- 🔭 I’m currently working on **My Nutritionist**
 
 - 🌱 I’m currently learning **Algorithm and Data Structure**
 
