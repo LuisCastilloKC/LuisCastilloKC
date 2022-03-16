@@ -18,7 +18,7 @@
 
 -------------------------------------------------
 
-- 🔭 I’m currently working on **My Nutritionist**
+- 🔭 I’m currently working on a **My Nutritionist App** and a **Chingu Voyage App**
 
 - 🌱 I’m currently learning **Algorithm and Data Structure**
 
