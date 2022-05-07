@@ -3,7 +3,7 @@
 
 <p align="left">A driven, passionate, and enthusiastic Full-Stack Web Developer who enjoyed over ten years working in the Retail industry Serving satisfied clients. I have now become a Full-Stack Developer with a strong understanding in software programming and engineering. Skills extend to both client-side and server-side code. A highly collaborative team player, adept at learning new technology, writing high-quality code, and observing best practices.</p>
 
-ss
+
   **2022 Goals**
   <ul>
     <li>Get a job as a Developer</li>
