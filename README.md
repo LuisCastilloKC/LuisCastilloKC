@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Castillo</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-<p align="left">A driven, passionate, and enthusiastic Full-Stack Web Developer who enjoyed over ten years working in the Retail industry Serving satisfied clients. I have now become a Full-Stack Developer with a strong understanding in software programming and engineering. Skills extend to both client-side and server-side code. A highly collaborative team player, adept at learning new technology, writing high-quality code, and observing best practices.</p>
+<p align="left">Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p>
 
 
   **2022 Goals**
