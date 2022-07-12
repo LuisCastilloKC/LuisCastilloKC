@@ -26,11 +26,17 @@
 
 - 📫 How to reach me **mr.luiscastillo@gmail.com**
 
+- 👨‍💻 All of my projects are available at [LuisCastillo.dev](https://www.luiscastillo.dev)
+
+- 📝 I regularly write articles on [Medium Blog](https://luiscastillokc.medium.com/)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sOjyxnx7zxKmdHn_KLQKbrSR6V7AMhm4/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luiscastillokc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luiscastillokc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luiscastillokc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiscastillokc" height="30" width="40" /></a>
- https://www.luiscastillo.dev
+<a href="https://www.luiscastillo.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/51430178/178558504-fbd47936-1e4f-4961-ae58-67c68db56f32.png" alt="luiscastillo.dev" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
