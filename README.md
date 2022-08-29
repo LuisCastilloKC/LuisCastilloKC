@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on a **My Nutritionist App** and a  **Group Project**  - [Chingu v38-toucans-team-01](https://github.com/chingu-voyages/v38-toucans-team-01) :white_check_mark: [Chingu v39-bears-team-08](https://github.com/chingu-voyages/v39-bears-team-08) [Chingu v40-bears-team-08](https://github.com/chingu-voyages/v40-bears-team-32)
 
 
-- 🌱 I’m currently learning **Algorithm and Data Structure**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, ReactJS**
 
