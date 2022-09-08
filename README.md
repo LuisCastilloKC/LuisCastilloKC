@@ -10,7 +10,9 @@
     <li>
       <strike>Complete my PortFolio</strike>  -  www.luiscastillo.dev :white_check_mark:
     </li>
-    <li>Complete Algo and DataStructor Course</li>
+    <li>
+      <strike>Complete Algo and DataStructor Course </strike>
+    </li>
     <li>
       <strike> 5 Commits on GitHub Monday to Friday </strike> - :white_check_mark:
     </li>
