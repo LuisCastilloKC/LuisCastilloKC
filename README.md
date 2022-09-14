@@ -11,7 +11,7 @@
       <strike>Complete my PortFolio</strike>  -  www.luiscastillo.dev :white_check_mark:
     </li>
     <li>
-      <strike>Complete Algo and DataStructor Course </strike>
+      <strike>Complete Algo and DataStructor Course </strike> - :white_check_mark:
     </li>
     <li>
       <strike> 5 Commits on GitHub Monday to Friday </strike> - :white_check_mark:
@@ -20,7 +20,7 @@
 
 -------------------------------------------------
 
-- 🔭 I’m currently working on a **My Nutritionist App** and a  **Group Project** : <br />
+- 🔭 I’m currently working on a **My Ocean Pollution App** and a  **Group Project** : <br />
 [Chingu v38-toucans-team-01](https://github.com/chingu-voyages/v38-toucans-team-01) :white_check_mark: <br /> 
 [Chingu v39-bears-team-08](https://github.com/chingu-voyages/v39-bears-team-08) :white_check_mark: <br />
 [Chingu v40-bears-team-32](https://github.com/chingu-voyages/v40-bears-team-32) <br />
