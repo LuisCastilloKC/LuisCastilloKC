@@ -6,7 +6,9 @@
 
   **2022 Goals**
   <ul>
-    <li>Get a job as a Developer</li>
+    <li> 
+      <strike> Get a job as a Developer </strike> :white_check_mark:
+    </li>
     <li>
       <strike>Complete my PortFolio</strike>  -  www.luiscastillo.dev :white_check_mark:
     </li>
