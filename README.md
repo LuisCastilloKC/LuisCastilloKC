@@ -4,21 +4,6 @@
 <p align="left">Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p>
 
 
-  **2022 Goals**
-  <ul>
-    <li> 
-      <strike> Get a job as a Developer </strike> got it at Lowe's Companies, Inc. :white_check_mark: 
-    </li>
-    <li>
-      <strike>Complete my PortFolio</strike>  -  www.luiscastillo.dev :white_check_mark:
-    </li>
-    <li>
-      <strike>Complete Algo and DataStructor Course </strike> - :white_check_mark:
-    </li>
-    <li>
-      <strike> 5 Commits on GitHub Monday to Friday </strike> - :white_check_mark:
-    </li>
-  </ul>
 
 -------------------------------------------------
 
