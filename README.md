@@ -9,10 +9,13 @@
 [Chingu v38-toucans-team-01](https://github.com/chingu-voyages/v38-toucans-team-01) :white_check_mark: <br /> 
 [Chingu v39-bears-team-08](https://github.com/chingu-voyages/v39-bears-team-08) :white_check_mark: <br />
 [Chingu v40-bears-team-32](https://github.com/chingu-voyages/v40-bears-team-32) :white_check_mark: <br />
+<img align="right" alt="Programming" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/51430178/272689738-b5e64420-2b75-42eb-916c-49f68b6a97c1.gif">
 
 - 🌱 I’m currently styding **AWS Solutions Architect**
 
-- 💬 Ask me about **JavaScript, ReactJS,Java, Spring Boot, Jest, Junit, Cypress, Ruby, Ruby on Rails**
+- 💬 Ask me about **JavaScript, ReactJS, Java,**<br> 
+                   **Spring Boot, Jest, Junit** 
+                   **Cypress, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **mr.luiscastillo@gmail.com**
 
