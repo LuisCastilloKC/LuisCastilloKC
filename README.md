@@ -11,7 +11,7 @@
 [Chingu v40-bears-team-32](https://github.com/chingu-voyages/v40-bears-team-32) :white_check_mark: <br />
 <img align="right" alt="Programming" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/51430178/272689738-b5e64420-2b75-42eb-916c-49f68b6a97c1.gif">
 
-- 🌱 I’m currently styding **AWS Solutions Architect**
+- 🌱 I’m currently work for Lowe's as a Software Engineer
 
 - 💬 Ask me about **JavaScript, ReactJS, Java,**<br> 
                    **Spring Boot, Jest, Junit** 
