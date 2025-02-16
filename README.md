@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luis Castillo</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-<p align="left">Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p>
+<p align="left">Experienced software engineer with a passion for developing innovative programs,
+well-versed in technology creating systems reliable for user-friendly. Skilled leader
+who can motivate, educate, and manage a team. Confident communicator, strategic
+thinker, and innovative software to meet customized company needs.</p>
 
 -------------------------------------------------
 
@@ -15,7 +18,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJS, Java,**<br> 
                    **Spring Boot, Jest, Junit** 
-                   **Cypress, Ruby, Ruby on Rails**
+                   **Playwright, Cypress, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **mr.luiscastillo@gmail.com**
 
